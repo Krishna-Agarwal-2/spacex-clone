@@ -1,2 +1,2 @@
-# spacex-clone
-a mildly functional clone of SpaceX
+# SpaceX-clone
+ UI clone of SpaceX
